@@ -1,5 +1,6 @@
 # Left-Handed-Project
 
+![image](![image](https://user-images.githubusercontent.com/88055274/218810902-5db77180-fcb7-4da5-be0f-34de6d6461ef.png))
 
 Barack Obama, Bill Gates, Oprah Winfrey, Babe Ruth, and Marie Curie are among the famous left-handed people. A 1991 study published in the New England Journal of Medicine reported that left-handed people die on average **nine years earlier** than right-handed people, which seems hard to believe. However, a 2005 study by Bland and Altman concluded that left-handedness is **only slightly** associated with an increased risk of death, nowhere near the 9 years  suggested by the previous study. It is unclear if the majority of people in the world will die younger because of left-handedness.
 
