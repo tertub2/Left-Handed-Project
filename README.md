@@ -29,7 +29,7 @@ With this in mind, some points were made for this project to have sequence:
 
 ### Moment of truth: age of left and right-handers at death
 
-### Final comments**
+### Final comments
 
 References:
 
