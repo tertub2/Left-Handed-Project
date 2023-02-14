@@ -11,7 +11,7 @@ This notebook aims to explore the **changing rates of left-handedness over time 
 
 With this in mind, some points were made for this project to have sequence: 
 
-**### Where are the old left-handed people?
+### Where are the old left-handed people?
 
 ### Rates of left-handedness over time
 
